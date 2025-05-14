@@ -132,7 +132,7 @@ Visit \`http://localhost:3000\` to view the app.
 
 ## 🌐 Live Demo Links
 
-* ✨ Main Application: [https://herbal-ten.vercel.app](https://herbal-ten.vercel.app)
+* ✨ Main Application: [https://herbal-ten.vercel.app](https://herbal-kp4bot0jt-devashish-1s-projects.vercel.app/)
 * 🤖 Chatbot Interface: [https://herbal-garden-chatbot.vercel.app](https://herbal-garden-chatbot.vercel.app)
 * 📍 Nursery Locator: [https://nurseries-herbal-garden.vercel.app](https://nurseries-herbal-garden.vercel.app)
 
