@@ -40,31 +40,6 @@ Herbal Garden is a powerful web application that brings traditional medicinal pl
 | Hosting     | Vercel                                       |
 | Auth        | Oauth | Firebase                  |
 
----
-
-## 🏗️ Project Structure
-
-\`\`\`
-├── public/
-│   ├── VirtualGarden.glb      # 3D garden model
-│   ├── index.html             # Entry point for the web app
-│   └── manifest.json          # PWA manifest
-├── src/
-│   ├── components/
-│   │   ├── ChatbotButton.jsx  # Chatbot integration
-│   │   ├── DrawerAppBar.js    # Navigation component
-│   │   ├── PlantInfor/       # Plant information components
-│   │   └── home/             # Home page components
-│   ├── Pages/
-│   │   ├── LandingPage.jsx
-│   │   ├── LoginPage.jsx
-│   │   ├── ChatBotPage.jsx
-│   │   └── NearbyNurseries.jsx
-│   ├── App.js
-│   └── index.js
-\`\`\`
-
----
 
 ## ⚙️ How It Works
 
