@@ -35,10 +35,10 @@ Herbal Garden is a powerful web application that brings traditional medicinal pl
 | ----------- | -------------------------------------------- |
 | Frontend    | React.js, React-Three-Fiber, Three.js, MUI   |
 | Backend     | Node.js, Express.js, CORS, REST APIs         |
-| Chatbot API | OpenAI                                       |
+| Chatbot API | OpenAI , Gemini ,YOLO
 | Maps API    | Google Maps JavaScript SDK + Places API      |
 | Hosting     | Vercel                                       |
-| Auth        | Firebase Authentication                      |
+| Auth        | Oauth | Firebase                  |
 
 ---
 
