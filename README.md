@@ -132,5 +132,6 @@ Have questions or suggestions? Feel free to:
 * Visit our deployed app at [https://herbal-ten.vercel.app](https://herbal-ten.vercel.app)
 
 ---
+## Collaborator : Ashika Gupta
 
 Enjoy exploring the world of medicinal plants with Herbal Garden! 🌱
